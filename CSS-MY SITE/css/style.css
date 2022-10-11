@@ -1,0 +1,42 @@
+body{
+  margin: 0;
+  text-align: center;
+  padding top: 100px;
+
+}
+h1{
+  top: 200px;
+  text-align: left: 160px;
+  font-family: 'Sacramento';
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+}
+h3{
+  font font-family: 'Montserrat', sans-serif;
+}
+.top-container{
+  background-color: #F2F2F2;
+  height: 400px;
+}
+.top-cloud{
+  right: 80px;
+  top: 30px;
+  position: absolute;
+}
+
+.Skills{
+  background color: #AAC4FF;
+}
+
+.bottom-cloud{
+  position: absolute;
+  left: 150px;
+  top: 100px;
+  }
+.middle-container{
+  background-color: #B1E1FF;
+}
+.bottom-container{
+  background-color: #F6F6F6;
+}
